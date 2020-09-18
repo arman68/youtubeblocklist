@@ -1,2 +1,2 @@
 # youtubeblocklist
-Pihole Blocklist for Youtube
+Block access to Youtube for AdGuardHome
