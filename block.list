@@ -5,8 +5,12 @@
 ||youtube.googleapis.com^
 ||youtubei.googleapis.com^
 ||ytimg.com^
+||yt3.ggpht.com^
 ||rewind.youtube^
 ||youtube-dl.org^
 ||youtube-nocookie.com^
+||youtube-noscript.com^
 ||youtu.be^
-||yt3.ggpht.com^
+||s0.2mdn.net
+||static.2mdn.net
+||lh4.googleusercontent.com^
